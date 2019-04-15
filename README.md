@@ -1,5 +1,3 @@
-# Employee Attrition
-![image.png](Images/HRTalent.png)
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 ![image.png](images/HRTalent.png)
 
