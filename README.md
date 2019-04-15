@@ -1,3 +1,4 @@
 # Employee Attrition
-![image.png](images/HRTalent.png)
+![image.png](Images/HRTalent.png)
+
 
